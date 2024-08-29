@@ -28,8 +28,14 @@ glob
 statsmodels
 ```
 
+
 # Installation guide
+This code is written using *Jupyter Notebook* and has no additional installation requirements.
 
 # Demo
+- run [GetKeyMetric_A.ipynb](/GetKeyMetric_A.ipynb) using [sample data](/SampleData) to calculate the first key metric: **A**
+* run [GetKeyMetric_fairnessindex.ipynb](/GetKeyMetric_fairnessindex.ipynb) to calculate the second key metric: **fairness index**
++ analyse these metrics and visualize the outcomes
 
-# Instructions for use
+
+
