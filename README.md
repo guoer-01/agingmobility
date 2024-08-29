@@ -9,7 +9,7 @@ This code requires only a standard computer with enough RAM to support the in-me
 
 ## Software requirements
 ### OS requirements
-The code has been tested on *Windows*.
+This code has been tested on *Windows*.
 
 ### Python dependencies
 This code mainly depends on the Python scientific and visualization packages：
