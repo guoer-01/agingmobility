@@ -13,7 +13,7 @@ This code supports the results presented in a research paper "**Assessing Reveal
 | [SI_Part2](/SI_Part3.ipynb) | | A.12 |
 | [SI_Part3](/SI_Part3.ipynb) |  | A.6 |
 
-Note that for the code to work properly, please put the **data** folder-proof in the same file directory as the codes, or modify the file paths in the codes.
+Note that for the code to work properly, please put the **[data](/data)** folder-proof in the same file directory as the codes, or modify the file paths in the codes.
 
 
 
