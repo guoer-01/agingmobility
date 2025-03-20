@@ -1,0 +1,9 @@
+countyfip: the GEOID of the county
+population	above_65: the population within the county before the migration
+percent_above_65: the percentage of residents aged 65+ within the county before the migration
+change_pop: the number of migrated population 	
+change_old_pop: the number of migrated population aged 65+
+M_population: the population within the county after the migration
+M_above_65: the population aged 65+ within the county after the migration	
+M_percent_above_65: the percentage of residents aged 65+ within the county after the migration
+M_diff: the change in the percentage of residents aged 65+ within the county due to the migration 

@@ -1,0 +1,14 @@
+census_block_group: GEOID of the Census Block Group (CBG)	
+parent_type: the essential service
+demand_visits: the number of visits from the CBG to POIs providing the essential service	
+accratio_1: the revealed service accessibility, A, calculated with the threshold of 1 mile 	
+accratio_2.5: the revealed service accessibility, A, calculated with the threshold of 2.5 miles 	
+accratio_5: the revealed service accessibility, A, calculated with the threshold of 5 miles	
+accratio_7.5: the revealed service accessibility, A, calculated with the threshold of 7.5 miles	
+accratio_10: the revealed service accessibility, A, calculated with the threshold of 10 miles	
+county_fip: GEOID of the county where the CBG locates	
+state_fip: GEOID of the state where the CBG locates	
+population_by_age: the population within the CBG	
+percent_above_65: the percentage of residents aged 65+ within the CBG	
+demand_ratios: the ratio of the number of visits from the CBG to POIs providing the essential service to the population in that CBG	
+50%to20%_age: depends on the percentage of residents aged 65+ within the CBG, with values of 1, 0 and 0.5 indicating that the percentage is more than 50%, less than 20%, and between 20% and 50%, respectively.

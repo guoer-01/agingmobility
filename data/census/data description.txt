@@ -1,0 +1,22 @@
+census_block_group: GEOID of the Census Block Group (CBG)
+county: GEOID of the county where the CBG locates
+state: GEOID of the state where the CBG locates
+population_by_age: the population within the CBG
+above_65: the population aged 65+ within the CBG
+above_50: the population aged 50+ within the CBG
+percent_above_65: the percentage of residents aged 65+ within the CBG
+percent_above_50: the percentage of residents aged 50+ within the CBG
+location: longitude and latitude of the CBG center
+median_income_normalized by 250000: the median income of residents within the CBG divided by 250000
+percent_undergraduate or higher	: the percentage of residents with bachelor's degree or higher within the CBG
+percent_minority: the percentage of non-white residents within the CBG
+Pct_E8_Hlth: the proxy of the Land Use for Health Care Services within the CBG
+Pct_E8_Ret: the proxy of the Land Use for Grocery and Food Supply within the CBG
+Pct_E8_Svc: the proxy of the Land Use for Housing and Real Estate within the CBG
+E_PctLowWage: the share of total workers comprised by low wage workers who earned \$1,250 or less per month within the CBG
+NatWalkInd: National Walkability Index, reflecting factors of the built environment that influence walking as a form of transportation
+isUrban: assigns a value of 1 if the CBG is categorized as urban, 0 otherwise
+
+Note that, definitions and detailed calculation of Pct_E8_Hlth, Pct_E8_Ret, Pct_E8_Svc, E_PctLowWage, and NatWalkInd can be seen in the SLD (v3) provided by the US EPA (accessed at https://www.epa.gov/smartgrowth/smart-location-mapping)
+
+

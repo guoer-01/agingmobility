@@ -1,0 +1,6 @@
+census_block_group: GEOID of the Census Block Group (CBG)
+ParentType: the essential service	
+num_accessible_facility: the number of POIs within the accessible area (a 10-mile radius from the CBG center)	
+demand_visits: the number of visits from the CBG to POIs providing the essential service
+demand_ratios: the ratio of the number of visits from the CBG to POIs providing the essential service to the population in that CBG
+demand_met_in_local: the revealed service accessibility, A
